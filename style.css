@@ -1,0 +1,16 @@
+#main, #transposedInput, #incorrectInput {
+  margin: 0 auto;
+  max-width: 360px; 
+  text-align: center;
+}
+
+#transposedInput {
+	font-family: monospace;
+	margin-top: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+button {
+	margin: 20px;
+}
